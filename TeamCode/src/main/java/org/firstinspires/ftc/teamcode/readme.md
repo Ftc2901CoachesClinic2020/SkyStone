@@ -1,6 +1,6 @@
 ## TeamCode Module
 
-Hello Coaches!!!
+Hello Coaches!
 
 Welcome!
 
